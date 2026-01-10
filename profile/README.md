@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noxsuil&label=Profile%20views&color=000000&style=flat" alt="noxsuil" /> </p>
 
-- 💬 Ask me about **I will translate it into Korean. Please send me the translation link for the app by email (except for apps without Korean).**
-
 - 📫 How to reach me **wjsdudgo11313@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
